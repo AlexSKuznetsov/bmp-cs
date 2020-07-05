@@ -1,0 +1,29 @@
+<div class="container">
+
+  <table class="table">
+    <thead>
+      <tr>
+        <th scope="col">id</th>
+        <th scope="col">Name</th>
+        <th scope="col">Email</th>
+        <th scope="col">Phone</th>
+        <th scope="col">Summ</th>
+        <th scope="col">Delivery</th>
+        <th scope="col">Process</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{#each orders}}
+      <tr>
+        <th scope="row">{{id}}</th>
+        <td>{{name}}</td>
+        <td>{{email}}</td>
+        <td>{{phone}}</td>
+        <td>{{summ}}</td>
+        <td>{{delivery}}</td>
+        <td><a target="_blank" href="http://localhost:8082/views/instances/{{processId}}">{{processId}}</a></td>
+      {{/each}}
+    </tbody>
+  </table>
+
+</div>
