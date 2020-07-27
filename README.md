@@ -20,8 +20,8 @@
 
 ## Technology that i use:
 
-*Frontend:* Bootstrap, Handlebars (Javascript)
+**Frontend:** Bootstrap, Handlebars (Javascript)
 
-*Backend:* Express.js, Mongoose, Node-telegram-bot-api, Zeebe-node, Mailgun-js
+**Backend:** Express.js, Mongoose, Node-telegram-bot-api, Zeebe-node, Mailgun-js
 
 
