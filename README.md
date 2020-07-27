@@ -2,6 +2,8 @@
 
 ## Simple e-commerce process manager
 
+This sample application demonstrates a simple communication system on top of the Process engine, decomposed into multiple independent components (that is to say: microservices).
+
 ### Main components
 
 0. Project architecture
