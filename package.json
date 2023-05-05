@@ -21,7 +21,7 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-prettier": "^3.1.4",
     "kill-port": "^1.6.0",
-    "nodemon": "^2.0.4",
+    "nodemon": "^2.0.22",
     "prettier": "^2.0.5"
   },
   "dependencies": {
@@ -36,6 +36,6 @@
     "morgan": "^1.10.0",
     "node-telegram-bot-api": "^0.50.0",
     "session-file-store": "^1.4.0",
-    "zeebe-node": "^0.23.3"
+    "zeebe-node": "^8.2.1"
   }
 }
